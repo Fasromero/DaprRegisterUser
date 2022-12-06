@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/DaprRegisterUser.API/.vs
+/DaprRegisterUser.API/bin/Debug
+/DaprRegisterUser.API/DaprRegisterUser.API/bin/Debug/net6.0
+/DaprRegisterUser.API/DaprRegisterUser.API/obj
+/DaprRegisterUser.API/obj
+/DaprSearchUser.API/bin/Debug/net6.0
+/DaprSearchUser.API/obj
