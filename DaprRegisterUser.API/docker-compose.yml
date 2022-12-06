@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  daprregisteruser.api:
+    image: ${DOCKER_REGISTRY-}daprregisteruserapi
+    build:
+      context: .
+      dockerfile: DaprRegisterUser.API/Dockerfile
